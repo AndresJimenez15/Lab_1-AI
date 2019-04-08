@@ -1,3 +1,3 @@
 # Lab_1-AI
 
-Codigo de sonic con el controlador de teclado
+Codigo de sonic the hedgehog con el controlador de teclado
